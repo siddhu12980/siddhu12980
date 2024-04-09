@@ -31,7 +31,7 @@
 <br>
 
 
-<img align="right" alt="GIF" src="https://github.com/siddhu12980/siddhu12980/blob/main/code.gif?raw=true" width="700" height="420" />
+<img align="right" alt="GIF" src="https://github.com/siddhu12980/siddhu12980/blob/main/code.gif?raw=true" width="750" height="440" />
 
 
 
