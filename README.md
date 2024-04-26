@@ -22,15 +22,15 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,express)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo)](https://skillicons.dev)
 
 <h2>Tools</h2>
-s
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,linux)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
 
 </div>
 
