@@ -22,7 +22,7 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,express,react,nextjs)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
