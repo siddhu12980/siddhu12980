@@ -18,7 +18,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,python,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,python,javascript,typescript)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
@@ -30,7 +30,7 @@
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,prisma)](https://skillicons.dev)
 
 </div>
 
