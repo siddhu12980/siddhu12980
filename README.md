@@ -26,7 +26,7 @@
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis)](https://skillicons.dev)
 
 <h2>Tools</h2>
 
