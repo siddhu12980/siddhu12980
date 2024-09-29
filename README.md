@@ -30,7 +30,7 @@
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,prisma,docker)](https://skillicons.dev)
 
 </div>
 
