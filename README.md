@@ -16,20 +16,32 @@
   
   <div>
     <h2>Languages</h2>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dart,python,javascript,typescript" />
+      </a>
+    </p>
     
-    [![My Skills](https://skillicons.dev/icons?i=dart,python,javascript,typescript)](https://skillicons.dev)
+<h2>Frameworks</h2>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,firebase,express,react" />
+      </a>
+    </p>
     
-    <h2>Frameworks</h2>
-    
-    [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,express,react)](https://skillicons.dev)
-    
-    <h2>Databases</h2>
-    
-    [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis)](https://skillicons.dev)
-    
-    <h2>Tools</h2>
-    
-    [![My Skills](https://skillicons.dev/icons?i=git,linux,prisma,docker)](https://skillicons.dev)
+  <h2>Databases</h2>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis" />
+      </a>
+    </p>
+
+  <h2>Tools</h2>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,linux,prisma,docker" />
+      </a>
+    </p>
   </div>
 </div>
 
@@ -47,18 +59,4 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhanta-acharya-1a2592284" height="30" width="40" />
   </a>
   <a href="https://instagram.com/siddhanta_ach" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhanta_ach" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/siddhu12980" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhu12980" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/siddhu12980" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhu12980" height="30" width="40" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img alt="Coding GIF" src="https://github.com/siddhu12980/siddhu12980/blob/main/code.gif?raw=true" width="600" />
-</p>
+    <img align="center" src="https://raw.githubuserconte
