@@ -49,14 +49,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/achsiddhanta" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achsiddhanta" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/siddhanta-acharya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhanta acharya" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/siddhanta-acharya-1a2592284" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhanta-acharya-1a2592284" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/siddhanta_ach" target="blank">
-    <img align="center" src="https://raw.githubuserconte
+  <a href="https://twitter.com/achsiddhanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achsiddhanta" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/siddhanta-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhanta acharya" height="30" width="40" /></a>
+  <a href="https://fb.com/siddhanta-acharya-1a2592284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhanta-acharya-1a2592284" height="30" width="40" /></a>
+  <a href="https://instagram.com/siddhanta_ach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhanta_ach" height="30" width="40" /></a>
+</p>
